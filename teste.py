@@ -1,1 +1,0 @@
-mensagem = "Olá, mundo"nprint(mensagem)
