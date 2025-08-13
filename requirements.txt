@@ -1,0 +1,7 @@
+# Este projeto não possui dependências externas
+# Utiliza apenas bibliotecas padrão do Python 3.6+
+# 
+# Para executar, apenas certifique-se de ter Python 3.6+ instalado
+# 
+# Verificar versão do Python:
+# python3 --version
